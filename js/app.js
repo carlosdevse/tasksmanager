@@ -59,6 +59,7 @@ function createTask(task) {
     tdCont.className = "px-4 py-3 w-10 whitespace-nowrap border border-gray-700";
     tdCont.innerHTML = `<span class="opacity-69">${numTaks()}</span>`;
 
+    // inyectar los td en el tr
     trTag.append(tdCont, tdTask, tdButtons);
     return trTag;
 
