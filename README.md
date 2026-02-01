@@ -80,7 +80,7 @@ cd taskmanager
 ---
 ## 📸 Capturas
 
-![Vista principal](img/captures/desktop.jpg)
+![Vista principal](img/captures/desktop.png)
 ![Versión móvil](img/captures/movil.jpeg)
 
 
