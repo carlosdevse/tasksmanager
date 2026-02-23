@@ -1,29 +1,29 @@
-# TasksManager 📋
+# TasksManager
 
 Aplicación web **responsive** enfocada en la gestión eficiente de tareas.  
 Desarrollada con **HTML, Tailwind CSS y JavaScript**, aplicando **buenas prácticas de desarrollo**, código modular, funciones reutilizables y persistencia de datos mediante **LocalStorage**.
 
 ---
 
-## 🌐 Demo
+##  Demo en vivo
 
-🔗 **Sitio en línea:** [https://listtasksapp.netlify.app/](https://listtasksapp.netlify.app/)
+ **Sitio en línea:** [https://listtasksapp.netlify.app/](https://listtasksapp.netlify.app/)
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
-* 📝 Gestión de Tareas
+*  Gestión de Tareas
 
 - Agregar, editar y eliminar tareas
 - Persistencia de datos con localStorage
 - Contador automático de tareas
 
-* ⌨️ Atajo de Teclado
+*  Atajo de Teclado
 
 - Presiona F2 para enfoque rápido del input
 
-* 🎨 Interfaz
+*  Interfaz
  
 - Diseño responsive (móvil y desktop)
 - Tabla interactiva con animaciones
@@ -31,7 +31,7 @@ Desarrollada con **HTML, Tailwind CSS y JavaScript**, aplicando **buenas prácti
 
 ---
 
-## 🛠️ Tecnologías usadas
+##  Tecnologías usadas
 
 * 🌐 **HTML5**
 * ⚡ **JavaScript**
@@ -41,7 +41,7 @@ Desarrollada con **HTML, Tailwind CSS y JavaScript**, aplicando **buenas prácti
 
 ---
 
-## 📂 Estructura del proyecto
+##  Estructura del proyecto
 
 ```bash
 taskmanager/
@@ -78,13 +78,13 @@ cd taskmanager
 * Abre el archivo `index.html`
 
 ---
-## 📸 Capturas
+##  Capturas
 
 ![Vista principal](img/captures/desktop.png)
 ![Versión móvil](img/captures/movil.jpeg)
 
 
-## 👤 Autor
+##  Autor
 
 **Marco Antonio Evangelista Armenta**
 - Desarrollador Web
